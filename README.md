@@ -1,5 +1,11 @@
 # Springer Proceedings Extractor
 
+![it-aint-much-meme](https://github.com/boi4/springer-proceedings-extractor/assets/33987679/28c77871-7c18-4849-8985-c64502cd9dda)
+
+Don't you love it when you download an article from Springer and suddendly you are greeted with a 200MB PDF with far too many pages?
+
+Me neither! That's why I wrote this little script .
+
 ## Description
 
 This is a Python script that allows you to extract articles from a Springer Proceedings PDF into separate PDF files.
